@@ -4,7 +4,7 @@
         <description><![CDATA[Forest Boy]]></description>
         <link>https://thegrid.ai/forest-boy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 19:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 19:59:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/forest-boy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Noisemaker]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/forest-boy/forest-boy-press/index.html</link>
             <guid isPermaLink="false">b8b0c3ad-a588-4e2d-abaa-3f73df9ce481</guid>
             <pubDate>Sun, 24 Apr 2016 19:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forest Boy]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e06cb7f-fc8d-4e64-9132-c45e2a8c17a1.jpg">]]></description>
-            <link>https://thegrid.ai/forest-boy/35ce1bf4-ecdb-402c-a4d9-2c5be833891f/index.html</link>
-            <guid isPermaLink="false">35ce1bf4-ecdb-402c-a4d9-2c5be833891f</guid>
-            <pubDate>Sun, 24 Apr 2016 19:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
