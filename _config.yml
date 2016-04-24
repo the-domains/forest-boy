@@ -1,6 +1,6 @@
 name: Forest Boy
 favicon: null
-layout_spectrum: 0.32016
+layout_spectrum: 0.67209
 typography_spectrum: 0.07684
 title: Forest Boy
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#10100d'
-    - '#4a7022'
-    - '#988a7e'
-    - '#b2c199'
+    - '#34343e'
+    - '#c9caa2'
+    - '#9f9b75'
+    - '#565f5c'
+    - '#848365'
   brandStrength: 0.5625
   lightness: 0.25
-  saturation: 0.3125
+  saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
