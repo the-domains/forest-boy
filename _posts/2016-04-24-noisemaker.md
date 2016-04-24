@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Noisemaker is the partnership between actor/writer Scott Gilmour and composer Claire McKenzie. '
-datePublished: '2016-04-24T18:10:10.620Z'
-dateModified: '2016-04-24T18:10:10.060Z'
+datePublished: '2016-04-24T19:22:46.641Z'
+dateModified: '2016-04-24T19:20:31.829Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-24-noisemaker.md
 published: true
+starred: true
 url: noisemaker/index.html
 _type: Blurb
 
