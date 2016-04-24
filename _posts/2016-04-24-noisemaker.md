@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Noisemaker is the partnership between actor/writer Scott Gilmour and composer Claire McKenzie. '
-datePublished: '2016-04-24T19:22:46.641Z'
-dateModified: '2016-04-24T19:20:31.829Z'
+datePublished: '2016-04-24T19:43:34.340Z'
+dateModified: '2016-04-24T19:43:22.656Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-noisemaker.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-24-noisemaker.md
-published: true
 starred: true
 url: noisemaker/index.html
-_type: Blurb
+_type: Article
 
 ---
 Noisemaker is the partnership between actor/writer Scott Gilmour and composer Claire McKenzie. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7afaf8cc-47ea-4e5a-9082-e3c5acb3f9a2.jpg)
@@ -41,7 +41,6 @@ Most recently, Foreast Boy was chosen to be part of the Next Link Project 2016 b
 
 The pair have also just been chosen as one of the New Voices 2016 - an award for emerging writers from across the globe selected by New Musicals Inc. and Walt Disney Imagineering Creative Entertainment. They will have a selection of their work shown at a series of concerts in Los Angeles across April and May this year. [http://nmi.org/develop/new-voices-project/][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f28281e-82b5-40c2-94cc-e8401374cf06.jpg)
-
 
 [0]: http://www.dundeerep.co.uk/event/littleredandthewolf
 [1]: http://www.nymf.org/programs/next-link-project/
