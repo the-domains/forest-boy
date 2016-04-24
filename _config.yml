@@ -2,6 +2,7 @@ name: Forest Boy
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.53266
+title: Forest Boy
 cta:
   domain: null
   bucket: null
