@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T20:38:18.689Z'
-dateModified: '2016-04-24T20:38:04.575Z'
+datePublished: '2016-04-24T20:41:27.491Z'
+dateModified: '2016-04-24T20:41:18.058Z'
 title: 'BROADWAY BABY ★★★★★ '
 author: []
 sourcePath: _posts/2016-04-24-forest-boy-press.md
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e74399-0e0d-4534-9dbf-fb8394657063.jpg)
-
-# 
 
 # PRESS & REVIEWS
 
