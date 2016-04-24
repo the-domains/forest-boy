@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: '" A show with real heart and the chance to see the best of the next generation of musical theatre… Forest Boy promises to be one of the outstanding achievements of the fringe this year… simply unmissable." '
-datePublished: '2016-04-24T20:13:07.213Z'
-dateModified: '2016-04-24T20:12:34.743Z'
-title: FOREST BOY PRESS
+description: ''
+datePublished: '2016-04-24T20:31:05.195Z'
+dateModified: '2016-04-24T20:27:16.309Z'
+title: 'BROADWAY BABY ★★★★★ '
 author: []
+sourcePath: _posts/2016-04-24-forest-boy-press.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,15 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-24-forest-boy-press.md
-published: true
 url: forest-boy-press/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e74399-0e0d-4534-9dbf-fb8394657063.jpg)
+
+# 
+
 # FOREST BOY PRESS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78e5d062-daf5-4449-b87b-d7c51558416b.jpg)
 
 > A show with real heart and the chance to see the best of the next generation of musical theatre... Forest Boy promises to be one of the outstanding achievements of the fringe this year... simply unmissable.
 
