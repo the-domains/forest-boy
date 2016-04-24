@@ -1,7 +1,7 @@
 name: Forest Boy
 favicon: null
-layout_spectrum: 0.89225
-typography_spectrum: 0.53266
+layout_spectrum: 0.32016
+typography_spectrum: 0.07684
 title: Forest Boy
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4a7022'
     - '#988a7e'
     - '#b2c199'
-  brandStrength: 0.375
+  brandStrength: 0.5625
   lightness: 0.25
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
