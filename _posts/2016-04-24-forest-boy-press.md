@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'FOREST BOY PRESS '
-datePublished: '2016-04-24T19:39:08.794Z'
-dateModified: '2016-04-24T19:35:48.154Z'
+datePublished: '2016-04-24T19:44:18.978Z'
+dateModified: '2016-04-24T19:43:45.090Z'
 title: ''
 author: []
 authors: []
@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 sourcePath: _posts/2016-04-24-forest-boy-press.md
 published: true
 url: forest-boy-press/index.html
